@@ -13,7 +13,7 @@ public class AppControll {
 	}
 }
 
-//  get 	-->		Retrieve resource 
+//  get 	-->	Retrieve resource 
 //  post 	--> 	Create new resource 
 //  put 	--> 	Update resource 
 //  patch 	-->  	Update single part of resource 
